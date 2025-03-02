@@ -1,0 +1,20 @@
+body{
+    background-color: #013950;
+    text-align: center;
+    color: azure;
+}
+.taskform{
+    background-color: #012839;
+    height: 50%;
+}
+.icons i{
+    font-weight: 100;
+    width: 50px;
+ transition: all 0.4s;
+}
+.task{
+    background-color: #009788;
+}
+.icons i:hover{
+color: #012839;
+}
